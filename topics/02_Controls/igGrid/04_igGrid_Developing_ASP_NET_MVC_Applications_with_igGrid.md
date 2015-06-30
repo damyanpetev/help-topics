@@ -9,6 +9,7 @@
 -->
 
 # Developing ASP.NET MVC Applications with igGrid
+
 Ignite UI is a JavaScript-based [jQuery UI](http://jqueryui.com/) control suite that you can use to build rich, interactive web applications. When Ignite UI is paired with ASP.NET MVC, you have the option to use JavaScript directly or with the MVC Helpers provided in Ignite UI.
 
 The MVC Helpers are a collection of .NET classes and extension methods that generate the HTML markup and JavaScript required to work with Ignite UI controls. Once rendered to the page, there is very little difference between code you may write by hand using a JavaScript-only approach and what is rendered by Ignite UI MVC Helpers, but using the helpers may be a good choice for you if:
