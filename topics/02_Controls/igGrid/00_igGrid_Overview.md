@@ -12,7 +12,7 @@
 
 ## About igGrid
 
-The `igGrid` is a jQuery-based client-side grid that is responsible for presenting and manipulating tabular data. Its whole lifecycle is on the client-side, which makes it independent from server-side technology.
+The Ignite UI `igGrid` is a jQuery-based client-side grid that is responsible for presenting and manipulating tabular data. Its whole lifecycle is on the client-side, which makes it independent from server-side technology.
 
 ![](images/igGrid_Overview_01.png) 
 
